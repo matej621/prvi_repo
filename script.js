@@ -14,4 +14,8 @@ function mult (a, b) {
 
 //cool
 
+<<<<<<< HEAD
 //jako mi je super bit na testu
+=======
+console.log("ovo je dev branch");
+>>>>>>> dev
