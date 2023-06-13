@@ -14,4 +14,4 @@ function mult (a, b) {
 
 //cool
 
-console.log("ovo je dev branch")
+console.log("ovo je dev branch");
