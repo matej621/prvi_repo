@@ -13,3 +13,5 @@ function mult (a, b) {
 }
 
 //cool
+
+//jako mi je super bit na testu
